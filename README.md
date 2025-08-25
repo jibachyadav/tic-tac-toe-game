@@ -24,7 +24,7 @@ Play the classic 3x3 game against a friend in the browser.
 - Highlight winning combination
 
 
-
+ site is live at https://jibachyadav.github.io/tic-tac-toe-game/
 
 
 
